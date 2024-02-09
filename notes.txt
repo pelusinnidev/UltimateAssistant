@@ -1,0 +1,10 @@
+python3 --version
+brew install python
+
+python3 -m venv bot-env
+source bot-env/bin/activate
+
+pip install discord.py youtube_dl
+brew install ffmpeg
+
+python3 nombre_de_tu_script.py

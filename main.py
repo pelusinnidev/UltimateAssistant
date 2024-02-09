@@ -151,4 +151,4 @@ async def announce(ctx, tipus: str, *, missatge: str):
         await ctx.send("Canal de comunicat no trobat.")
 
 # No oblideu substituir 'YOUR_BOT_TOKEN' amb el token real del vostre bot
-bot.run('YOUR_BOT_TOKEN')
+bot.run('MTIwNTE4MDk1MDUyNzQ4Mzk0NQ.Gh1xu3.wyFlzbMH_PNAOBYrt0G18bGTFkdn1Kq6RCG6oI')
